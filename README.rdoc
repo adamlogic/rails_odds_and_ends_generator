@@ -1,0 +1,7 @@
+= rails_odds_and_ends_generator
+
+Description goes here.
+
+== Copyright
+
+Copyright (c) 2009 Adam McCrea. See LICENSE for details.
