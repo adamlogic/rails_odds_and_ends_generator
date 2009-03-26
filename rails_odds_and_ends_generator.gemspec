@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.date = %q{2009-03-26}
   s.email = %q{adam@adamlogic.com}
   s.extra_rdoc_files = ["README.rdoc", "LICENSE"]
-  s.files = ["README.rdoc", "VERSION.yml", "lib/rails_odds_and_ends_generator.rb", "lib/seed_task", "lib/seed_task/seed_task_generator.rb", "lib/seed_task/templates", "lib/seed_task/templates/seed.rake", "test/rails_odds_and_ends_generator_test.rb", "test/test_helper.rb", "LICENSE"]
+  s.files = ["LICENSE", "Rakefile", "README.rdoc", "VERSION.yml", "rails_generators/seed_task", "rails_generators/seed_task/seed_task_generator.rb", "rails_generators/seed_task/templates", "rails_generators/seed_task/templates/seed.rake", "test/rails_odds_and_ends_generator_test.rb", "test/test_helper.rb"]
   s.has_rdoc = true
   s.homepage = %q{http://github.com/adamlogic/rails_odds_and_ends_generator}
   s.rdoc_options = ["--inline-source", "--charset=UTF-8"]
