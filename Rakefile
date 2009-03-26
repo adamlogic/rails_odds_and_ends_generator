@@ -9,6 +9,7 @@ begin
     gem.email = "adam@adamlogic.com"
     gem.homepage = "http://github.com/adamlogic/rails_odds_and_ends_generator"
     gem.authors = ["Adam McCrea"]
+    gem.files =  FileList["[A-Z]*", "{rails_generators,lib,test}/**/*"]
     # gem is a Gem::Specification... see http://www.rubygems.org/read/chapter/20 for additional settings
   end
 rescue LoadError
